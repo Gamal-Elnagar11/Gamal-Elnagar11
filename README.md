@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi , I'm Gamal Saeed<br>- 🔭 I’m a student (BIS)<br>- 🌱 I’m currently learning Back-end (.net)<br>- 🌱 I’m currently studying at Al-obour institute department of (Business Information System) <br>- 📫 How to reach me : gamalgamalsaeed11@gmail.com<br>- ⚡ Fun fact <br><br>
+- 👋 Hi , I'm Gamal Saeed<br>- 🔭 I’m a student (IS)<br>- 🌱 I’m currently learning Back-end (.net)<br>- 🌱 I’m currently studying at Al-obour institute department of ( Information System) <br>- 📫 How to reach me : gamalgamalsaeed11@gmail.com<br>- ⚡ Fun fact <br><br>
 
 
 # 💻 Tech Stack:
