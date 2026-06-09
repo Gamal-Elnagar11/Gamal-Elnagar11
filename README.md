@@ -1,18 +1,52 @@
-# 💫 About Me:
-- 👋 Hi , I'm Gamal Saeed<br>- 🔭 I’m a student (IS)<br>- 🌱 I’m currently learning Back-end (.net)<br>- 🌱 I’m currently studying at Al-obour institute department of ( Information System) <br>- 📫 How to reach me : gamalgamalsaeed11@gmail.com<br>- ⚡ Fun fact <br><br>
+# 👋 Hello, I'm Gamal Saeed
 
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Gamal-Elnagar11&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Gamal-Elnagar11&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gamal-Elnagar11&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Gamal-Elnagar11&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### 🎯 Career Goals
+* 🚀 Aspiring Backend Engineer specializing in ASP.NET Core.
+* ☁️ Interested in Cloud technologies, System Design, and DevOps.
+* 💡 Goal: To build scalable, high-performance, and impactful applications.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Gamal-Elnagar11&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### ⚡ About Me
+* 👨‍💻 I'm a student at Al-Obour Institute, Department of Information Systems.
+* 🌿 Passionate about clean code and backend architecture.
+* 💬 Let's discuss C#, .NET, and Database design.
+* ⚡ Fun fact: I turn coffee into code!
+
+---
+
+### 🛠 Tech Stack
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+---
+
+### 📜 Certifications & Achievements
+* 🎓 [اسم الشهادة الأولى] - [الجهة المانحة]
+* 🏆 [اسم المسابقة أو الإنجاز] - [السنة]
+* 🎖 [اسم كورس أو شهادة أخرى]
+
+---
+
+### 🚀 Featured Projects
+* **[اسم المشروع الأول]:** وصف قصير عن المشروع وما التقنيات المستخدمة فيه.
+* **[اسم المشروع الثاني]:** وصف قصير عن المشروع وتحدي قمت بحله.
+* 🔗 [رابط للمشروع على جيت هب]
+
+---
+
+### 📬 Let's Connect
+* 💼 LinkedIn: [ضع رابط حسابك هنا]
+* 📧 Email: [gamalgamalsaeed11@gmail.com](mailto:gamalgamalsaeed11@gmail.com)
+
+---
+
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gamal-Elnagar11&show_icons=true&theme=radical)
+
+### 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Gamal-Elnagar11&theme=radical)
